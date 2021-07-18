@@ -1,6 +1,8 @@
-### Hi there 👋
+https://github-readme-stats.vercel.app/api?username=Yoshiki-Hanashiro
 
 <!--
+### Hi there 👋
+
 **Yoshiki-Hanashiro/Yoshiki-Hanashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
